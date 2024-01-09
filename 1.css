@@ -1,0 +1,134 @@
+* {
+  font-family: "Salsa", cursive;
+}
+body {
+  font-family: "Salsa", cursive;
+  text-align: center;
+  text-transform: uppercase;
+}
+div {
+  margin-top: 15px;
+}
+
+h1 {
+  color: #11c5dd;
+  font-size: 49;
+  font-weight: 18;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #9d65a8;
+  padding-top: 10px;
+  font-size: 21px;
+  font-weight: 11;
+  letter-spacing: 12px;
+}
+
+img {
+  width: 200px;
+  border: 7px solid #ce07e8;
+  border-style: solid dashed;
+  border-radius: 57px;
+  margin-top: 35px;
+  margin-bottom: 19px;
+}
+
+input::placeholder {
+  color: rgb(0, 0, 0);
+}
+textarea::placeholder {
+  color: rgb(34, 252, 5);
+}
+
+textarea {
+  padding-top: 8px;
+  font-family: "Salsa", cursive;
+}
+
+button {
+  font-family: "Salsa", cursive;
+  margin-bottom: 15px;
+  background-color: hsl(0, 0%, 17%);
+  color: #ef0909;
+  width: 170px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+}
+
+.div_2 {
+  background-color: black;
+  border: 22px solid #54a5a4;
+  border-radius: 860px;
+}
+
+.div_3{
+font-size: 25px;
+font-weight: 20;
+    
+  letter-spacing: 10px;
+}
+
+.forms1 {
+  width: 150px;
+  height: 30px;
+  font-size: 19px;
+
+  color: #ff8000;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px double #000000;
+  border-radius: 5px;
+}
+.forms2 {
+  width: 200px;
+  height: 30px;
+  font-size: 19px;
+
+  color: #ff8000;
+  background-color: hsla(0, 0%, 100%, 0.842);
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px double #000000;
+  border-radius: 10px;
+}
+.forms3 {
+  width: 250px;
+  height: 30px;
+  font-size: 19px;
+
+  color: #ff8000;
+  background-color: hsla(0, 0%, 100%, 0.664);
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px double #000000;
+  border-radius: 15px;
+}
+.history {
+  width: 350px;
+  height: 50px;
+  font-size: 19px;
+
+  color: #ff8000;
+  background-color: hsla(0, 0%, 100%, 0.265);
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px double #000000;
+  border-radius: 25px;
+}
+
+::placeholder-shown {
+  font-family: "Salsa", cursive;
+  color: #04ff00;
+}
+
+
+.div_4{
+text-align:justify;
+line-height: 1.5;
+font-weight: 3;
+font-size: 3px;
+}
