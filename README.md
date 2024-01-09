@@ -1,1 +1,1 @@
-git remote add origin https://github.com/username/username.github.io.git
+ghttps://github.com/username/username.github.io.git
